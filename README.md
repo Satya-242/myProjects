@@ -1,6 +1,6 @@
 # myProjects
 # Crop Yield Prediction &amp; Variation Across the State Of Odisha
-
+## Author- Satya Prakash Samal
 ## 📌 Project Overview
 This project focuses on predicting crop yield and analyzing its variation across different districts of Odisha. Using data analytics, we aim to provide insights that help farmers, policymakers, and agricultural stakeholders make informed decisions regarding crop production and resource allocation.
 
